@@ -17,10 +17,7 @@
 
 ## 📊 Статистика
 
-<img src="./profile/stats.svg" height="170" alt="Статистика GitHub"/>
-<img src="./profile/top-langs.svg" height="170" alt="Языки"/>
-
-<img src="https://streak-stats.demolab.com?user=NikoliniOFF&locale=ru&background=0A0F2C&border=1E3A8A&stroke=1E3A8A&ring=38BDF8&fire=67E8F9&currStreakNum=E0F2FE&sideNums=E0F2FE&currStreakLabel=38BDF8&sideLabels=7DD3FC&dates=93C5FD&border_radius=12" alt="Серия дней подряд"/>
+<img src="./profile/stats.svg" height="180" alt="Статистика GitHub"/><img height="180" src="https://streak-stats.demolab.com?user=NikoliniOFF&locale=ru&background=0A0F2C&border=1E3A8A&stroke=1E3A8A&ring=38BDF8&fire=67E8F9&currStreakNum=E0F2FE&sideNums=E0F2FE&currStreakLabel=38BDF8&sideLabels=7DD3FC&dates=93C5FD&border_radius=12" alt="Серия дней подряд"/>
 
 ## ❄️ Проекты
 
