@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="1200" height="110">
+<style>.f1{animation:m 14s linear infinite}.f2{animation:m 20s linear infinite reverse}.f3{animation:m 26s linear infinite}
+@keyframes m{from{transform:translateX(0)}to{transform:translateX(-1200px)}}</style>
+<path class="f3" d="M0 40 C198 26 396 54 600 40 C798 26 996 54 1200 40 C1398 26 1596 54 1800 40 C1998 26 2196 54 2400 40 L2400 110 L0 110Z" fill="#1e3a8a" opacity=".45"/>
+<path class="f2" d="M0 55 C264 43 528 67 800 55 C1064 43 1328 67 1600 55 C1864 43 2128 67 2400 55 L2400 110 L0 110Z" fill="#2563eb" opacity=".45"/>
+<path class="f1" d="M0 72 C158 62 317 82 480 72 C638 62 797 82 960 72 C1118 62 1277 82 1440 72 C1598 62 1757 82 1920 72 C2078 62 2237 82 2400 72 L2400 110 L0 110Z" fill="#38bdf8" opacity=".5"/>
+<path class="f3" d="M0 88 C132 81 264 95 400 88 C532 81 664 95 800 88 C932 81 1064 95 1200 88 C1332 81 1464 95 1600 88 C1732 81 1864 95 2000 88 C2132 81 2264 95 2400 88 L2400 110 L0 110Z" fill="#0a0f2c"/>
+</svg>
