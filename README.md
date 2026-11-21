@@ -24,15 +24,15 @@
 
 ## 🛠️ Проекты
 
-<a href="https://github.com/NikoliniOFF/WinterDesk"><img src="./assets/winterdesk.svg" width="720" alt="WinterDesk"/></a>
+<sub>Программы для Windows 10 и 11 — бесплатно, без рекламы и без слежки. Начните с HubDesk: он ставит и обновляет все остальные.</sub>
 
-<a href="https://github.com/NikoliniOFF/WinterDesk"><img src="https://img.shields.io/badge/%D0%A0%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B9-WinterDesk-2563eb?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0f2c" alt="Репозиторий"/></a>
-<a href="https://nikolinioff.github.io/WinterDesk/"><img src="https://img.shields.io/badge/%D0%A1%D0%B0%D0%B9%D1%82-%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-38bdf8?style=for-the-badge&logo=windows&logoColor=white&labelColor=0a0f2c" alt="Сайт"/></a>
+<a href="https://nikolinioff.github.io/HubDesk/"><img src="./assets/hubdesk.svg" width="820" alt="HubDesk — все программы Nikolini в одном окне"/></a>
 
-<a href="https://github.com/NikoliniOFF/PeekDesk"><img src="./assets/peekdesk.svg" width="720" alt="PeekDesk"/></a>
+<a href="https://nikolinioff.github.io/WinterDesk/"><img src="./assets/winterdesk.svg" width="404" alt="WinterDesk"/></a> <a href="https://nikolinioff.github.io/PeekDesk/"><img src="./assets/peekdesk.svg" width="404" alt="PeekDesk"/></a>
 
-<a href="https://github.com/NikoliniOFF/PeekDesk"><img src="https://img.shields.io/badge/%D0%A0%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B9-PeekDesk-2563eb?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0f2c" alt="Репозиторий"/></a>
-<a href="https://nikolinioff.github.io/PeekDesk/"><img src="https://img.shields.io/badge/%D0%A1%D0%B0%D0%B9%D1%82-%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-38bdf8?style=for-the-badge&logo=windows&logoColor=white&labelColor=0a0f2c" alt="Сайт"/></a>
+<a href="https://nikolinioff.github.io/SnapDesk/"><img src="./assets/snapdesk.svg" width="404" alt="SnapDesk"/></a> <a href="https://nikolinioff.github.io/DockDesk/"><img src="./assets/dockdesk.svg" width="404" alt="DockDesk"/></a>
+
+<a href="https://nikolinioff.github.io/SpotDesk/"><img src="./assets/spotdesk.svg" width="404" alt="SpotDesk"/></a> <a href="https://nikolinioff.github.io/IslandDesk/"><img src="./assets/islanddesk.svg" width="404" alt="IslandDesk"/></a>
 
 <table>
 <tr><td>🤖 <b>Боты для Discord и Telegram</b></td><td>Antwoord AI, 5stack-bot, BotHouse</td></tr>
